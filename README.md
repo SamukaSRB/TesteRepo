@@ -171,6 +171,7 @@ This command restores the most recently stashed files.
 Usage: git stash list  
 
 This command lists all stashed changesets.
+-----
 
 ----------------------------------------
 
