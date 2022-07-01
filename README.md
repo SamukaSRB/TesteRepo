@@ -172,7 +172,7 @@ Usage: git stash list
 
 This command lists all stashed changesets.
 
-Removi  esta linha
+Alteração 1
 
 Usage: git stash drop  
 
