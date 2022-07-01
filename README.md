@@ -172,7 +172,11 @@ Usage: git stash list
 
 This command lists all stashed changesets.
 
+<<<<<<< HEAD
 Alteração 1
+=======
+Trocando de Branch
+>>>>>>> master
 
 Usage: git stash drop  
 
